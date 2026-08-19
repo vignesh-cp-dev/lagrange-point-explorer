@@ -5,6 +5,9 @@
 The animation explores the five Lagrange points of the **Earth–Moon system**, showing their geometry, stability characteristics, and how a small satellite perturbation behaves near unstable and stable equilibrium points.
 
 ---
+## Preview
+
+![Lagrange Point Explorer](assets/lagrange-overview.png)
 
 ## 🎯 Problem Demonstrated
 
