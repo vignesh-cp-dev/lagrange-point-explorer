@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+
+media/videos/*/partial_movie_files/
+media/videos/*/*/partial_movie_files/
+media/videos/main/480p15/
+media/images/
+media/texts/
