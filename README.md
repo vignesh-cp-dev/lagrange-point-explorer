@@ -1,4 +1,4 @@
-# Lagrange Point Explorer 🌌
+# Lagrange Point Explorer 🌌 (No)
 
 **Lagrange Point Explorer** is a Python-based educational visualization built with **Manim, NumPy, and the Circular Restricted Three-Body Problem (CR3BP)**.
 
